@@ -4,3 +4,4 @@ lyc，gzh，lky，xkr，小鱼，徐小黑，小旋风，玉子烧战士，小�
 西曦小朋友，选手小车，某人，拉莫三嗪，小尾巴，唐抒欢,垃圾桶,Rustkille,夜莺不来   
 感谢大家的分享
 
+LaTeX模板采用[BeautyBook](https://github.com/BeautyLaTeX/Beautybook)

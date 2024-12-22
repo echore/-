@@ -5,3 +5,7 @@ lyc，gzh，lky，xkr，小鱼，徐小黑，小旋风，玉子烧战士，小�
 感谢大家的分享
 
 LaTeX模板采用[BeautyBook](https://github.com/BeautyLaTeX/Beautybook)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=echore/live-in-xjtu-medical-school&type=Date)](https://star-history.com/#echore/live-in-xjtu-medical-school&Date)
